@@ -6,7 +6,7 @@ void setup() {
 }
 
 void draw() {
-  stroke(random(170, 260), 100, 90);
+  stroke(random(305, 360), 100, 90);
   fill(255, 25);
   rect(175, 175, random(0, 200), random(0, 150));
   
